@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/amin/projects/amin/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/amin.dir/main.c.o -c /home/amin/projects/amin/main.c",
+  "file": "/home/amin/projects/amin/main.c"
+}
+]

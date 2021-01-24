@@ -1,0 +1,7 @@
+/home/amin/projects/amin/build/CMakeFiles/install/strip.dir
+/home/amin/projects/amin/build/CMakeFiles/install/local.dir
+/home/amin/projects/amin/build/CMakeFiles/install.dir
+/home/amin/projects/amin/build/CMakeFiles/list_install_components.dir
+/home/amin/projects/amin/build/CMakeFiles/rebuild_cache.dir
+/home/amin/projects/amin/build/CMakeFiles/edit_cache.dir
+/home/amin/projects/amin/build/CMakeFiles/amin.dir
